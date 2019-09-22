@@ -104,3 +104,9 @@ Education
  **Online learning:** [Codecademy](https://www.codecademy.com/profiles/Uladlena/ "Link to my profile Codecademy.com"), [Htmlacademy](https://htmlacademy.ru/profile/id228090/ "Link to my profile Htmlacademy.ru").
 
 ---
+
+English
+-------
+
+>I learn English with a teacher twice a week for a month.  
+My english level is growing to pre-intermediate.
